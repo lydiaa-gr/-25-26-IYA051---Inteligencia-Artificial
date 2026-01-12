@@ -1,4 +1,10 @@
 # OCR – Proyecto Final de Inteligencia Artificial
+## 📁 Material del proyecto
+
+| Recurso | Descripción | Enlace |
+|-------|------------|--------|
+| 🎥 Vídeo de resolución | Grabación del funcionamiento del sistema OCR, mostrando las pruebas realizadas y los resultados obtenidos durante el examen | [Ver vídeo en Google Drive](https://drive.google.com/drive/folders/1700S_NUAnzKa2Q-uFHbkE_vKFUQcRyFk?usp=drive_link) |
+
 
 Este proyecto consiste en el desarrollo de un sistema de Reconocimiento Óptico de Caracteres (OCR) implementado desde cero, como trabajo final de la asignatura **Inteligencia Artificial** del Grado en Ingeniería Informática.
 
